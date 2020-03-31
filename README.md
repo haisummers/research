@@ -1,5 +1,5 @@
 # research
-Environmental Burden of Indoor Cannabis Production
+# Environmental Burden of Indoor Cannabis Production
 
 This repository contains code to replicate the analysis from: “Green isn’t Green: The Environmental Burden of Indoor Cannabis Production.” 
 The primary analysis files were generated in Matlab and can be run on versions R2017a or newer.
