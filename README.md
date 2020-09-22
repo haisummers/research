@@ -1,6 +1,6 @@
 # Environmental Burden of Indoor Cannabis Production
 
-This repository contains code to replicate the analysis from: “Green isn’t Green: The Environmental Burden of Indoor Cannabis Production.” 
+This repository contains code to replicate the analysis from: “Green isn’t Green: The Environmental Burden of Commercial Indoor Cannabis Production.” 
 
 # Requirements
 
